@@ -5,10 +5,22 @@ This project is a simple mobile app linked to the GitHub repository and HNG Hire
 
 
 ## 🚀 Getting Started
-### 🔹 Prerequisites
-- Git
-- Node.js & React Native (for React Native app) OR
-- Flutter SDK (for Flutter app)
+### **Features**  
+✅ Clean and modern UI  
+✅ Links to GitHub repository and HNG Hire Pages  
+✅ Built with **Expo** for easy development  
+
+---
+
+## **Installation & Running Locally**  
+
+### **Prerequisites**
+- Install Expo Go on your mobile device (from App Store / Google Play)
+- Install [Node.js](https://nodejs.org/)  
+- Install [Expo CLI](https://docs.expo.dev/get-started/installation/)  
+  ```sh
+  npm install -g expo-cli
+  ```
 
 ### 🔹 Cloning the Repository
 ```sh
@@ -17,12 +29,14 @@ cd MobileDev-HNG
 ```
 
 ### 🔹 Running the Mobile App
-For React Native:
+React Native:
 ```sh
-cd mobile-app
+cd HNGLink-App
 npm install
-npx react-native run-android # or run-ios
+expo start
 ```
+This will open the Expo Developer Tools in your browser. You can:
+- Scan the QR code using Expo Go (iOS/Android)
 
 ## 📎 Links
 - **GitHub Repository**: [MobileDev-HNG](https://github.com/Mj-devs/MobileDev-HNG)
