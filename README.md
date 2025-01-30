@@ -1,8 +1,10 @@
 # MobileDev-HNG
 
 ## 📌 Project Overview
-This project is a simple mobile app linked to the GitHub repository and HNG Hire pages. It provides an easy way to explore the repository and relevant HNG resources.
+This task is a simple mobile app linked to the GitHub repository and HNG Hire pages. It provides an easy way to explore the repository and relevant HNG resources.
 
+### **Tags:**  
+`React Native` `Expo` `Mobile Development` `HNG` `Open Source` `Android` `iOS`
 
 ## 🚀 Getting Started
 ### **Features**  
