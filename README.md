@@ -7,7 +7,7 @@ This project is a simple mobile app linked to the GitHub repository and HNG Hire
 ## 🚀 Getting Started
 ### **Features**  
 ✅ Clean and modern UI  
-✅ Links to GitHub repository and HNG Hire Pages  
+✅ Links to GitHub repository and HNG Hire Page  
 ✅ Built with **Expo** for easy development  
 
 ---
@@ -41,7 +41,7 @@ This will open the Expo Developer Tools in your browser. You can:
 ## 📎 Links
 - **GitHub Repository**: [MobileDev-HNG](https://github.com/Mj-devs/MobileDev-HNG)
 - **HNG Hire Page - React Native Developer**: [HNG Developers](https://hng.tech/hire/react-native-developers)
-- **Appetize.io Demo**: [Live App Demo](https://appetize.io/app/demo)
+- **Appetize.io Demo**: [Live App Demo](https://appetize.io/app/b_vkl6o6qx6xjy2txcgcayv4xl7e)
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
